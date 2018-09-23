@@ -1,0 +1,31 @@
+{
+  "name": "web-google-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzakaan/web-google-auth.git"
+  },
+  "keywords": [
+    "auth",
+    "google",
+    "sign"
+  ],
+  "author": "Riza Kaan Uçak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzakaan/web-google-auth/issues"
+  },
+  "homepage": "https://github.com/rzakaan/web-google-auth#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.15.6"
+  }
+}
